@@ -1,0 +1,11 @@
+{
+	"id": "image-grid",
+	"name": "Image Grid",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "It's like a grid of images.",
+	"author": "Obsidian",
+	"authorUrl": "https://erolk.com",
+	"fundingUrl": "https://erolk.com/pay_me_now",
+	"isDesktopOnly": false 
+}
